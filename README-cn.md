@@ -41,7 +41,7 @@ const outCode = script.generate();
 ```
 
 ### 转换后代码
-
+而且这个是更改过的
 ```javascript
 const a = 1;
 const b = 1;
